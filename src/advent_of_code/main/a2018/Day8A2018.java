@@ -46,7 +46,7 @@ public class Day8A2018 {
 
 	private static void getTree() {
 		String message = getMessage(
-				"C:\\Users\\z11r88\\eclipse-workspace2\\advent_of_code\\src\\advent_of_code\\main\\resources\\a2018\\input8");
+				"/aoc/src/advent_of_code/main/resources/a2018/input8");
 		List<Integer> input = new ArrayList<>();
 		List<Integer> inputG = new ArrayList<>();
 		List<Integer> inputD = new ArrayList<>();
