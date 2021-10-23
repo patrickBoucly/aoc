@@ -1,0 +1,140 @@
+i :0 regle : 8 11 
+i :1 regle : a b a |a a | b a b 
+i :2 regle : 133 a | 137 b 
+i :3 regle : b | a b | b a b | b b | a b | a a 
+i :4 regle : a a | b b | a a |a a | b a b 
+i :5 regle : 70 a | a a | b b | a b 
+i :6 regle : 130 b | b a a | a a a a 
+i :7 regle : 119 b | 28 a 
+i :8 regle : 42 
+i :9 regle : 22 b | 129 a 
+i :10 regle : a 75 | b 76 
+i :11 regle : 42 31 
+i :12 regle : a b | a b | b a | b a a 
+i :13 regle : 6 b | 34 a 
+i :14 regle : a 62 | b 113 
+i :15 regle : a b b | b b | b a a 
+i :16 regle : b  
+i :17 regle : a 56 | b 37 
+i :18 regle : b a 
+i :19 regle : b 93 | a 27 
+i :20 regle : b a a | a b | b a b 
+i :21 regle : b a a | a b b | a b | a 
+i :22 regle : a 75 | b 134 
+i :23 regle : a 47 | b 12 
+i :24 regle : a 127 | b 80 
+i :25 regle : ba a | b a| a 63 
+ :26 regle : a a | b b | a 
+i :27 regle : b 99 | a a  b a | b a b | b b 
+i :28 regle : 126 a | 76 b 
+i :29 regle : 68 b | 111 a 
+i :30 regle : b | a b | b a b | a a | b b | a a 
+i :31 regle : 73 b | 14 a 
+i :32 regle : 66 b | 95 a 
+ :33 regle : b a b | b b | a a a | b b | a 
+i :34 regle : b a b a |a a | b a b | a 117 
+i :35 regle : b 86 | a 54 
+i :36 regle : a a a | b b | a | b 63 
+i :37 regle : 30 a | b a a | a b b | a b | a b 
+i :38 regle : 88 b | a b | b a a 
+i :39 regle : 116 a | 139 b 
+ :40 regle : b | a b | b a 
+i :41 regle : 106 b | a a b |a b a a 
+i :42 regle : b 112 | a 39 
+i :43 regle : b 71 | a 36 
+ :44 regle : a b | b a 
+i :45 regle : b 70 | a b b | a b | a 
+ :46 regle : b a a | b b | a | aa b 
+i :47 regle : 88 b | a b | b b a 
+ :48 regle : a  b a | b a b | b b 
+ :49 regle : a a b | b a | b a a | b b | a 
+i :50 regle : b a b | a  b b a | 132 b 
+ :51 regle : a a b |a b a 
+ :52 regle : a b | b b b | b | a b | b a a 
+i :53 regle : b 45 | a 131 
+i :54 regle : 81 b | 124 a 
+i :55 regle : b 65 | a 25 
+i :56 regle : 135 a | 79 b 
+i :57 regle : 88 b | 102 a 
+ :58 regle : b a b | b b | a a a | b b | a a | a a | b a b | a a a  b 
+ :59 regle : a a a |a b b 
+i :60 regle : 38 b | 82 a 
+i :61 regle :  b b a | 70 b 
+i :62 regle : a 19 | b 7 
+i :63 regle : b a | a b | a 
+i :64 regle : b a a | b b | a | a b a 
+i :65 regle : b 88 | a a a 
+i :66 regle : a 50 | b 41 
+i :67 regle : a 63 | b b a 
+i :68 regle : b b a a | a a a | a 91 
+i :69 regle : 88 b | b b | a b | a a 
+i :70 regle : b | a 87 
+i :71 regle : a b | b a a | a a | b b | a b 
+i :72 regle : a b | b b 
+i :73 regle : b 35 | a 32 
+i :74 regle : 105 b | 85 a 
+i :75 regle : a 88 | ba b 
+i :76 regle : a a b | b b | b a b | b a 
+i :77 regle : b 97 | a b a b | b b | a a a | b b | a a | a a | b a b | a a a  b 
+i :78 regle : 102 a | a a | b b | a b 
+i :79 regle : 63 a | 102 b 
+i :80 regle : a a a b | b b | b b b | a b | a | b a b | b b b | b | a b | b a a 
+i :81 regle : a 61 | b 3 
+i :82 regle : b b | a b | b a | a 63 
+i :83 regle : 67 a | 136 b 
+i :84 regle :b a a | a b | b a ba | b b | b a b | a a a b 
+i :85 regle : 60 b | 55 a 
+i :86 regle : b 96 | a 125 
+i :87 regle : b | a 
+i :88 regle : b b | a a 
+i :89 regle : a  
+i :90 regle : 2 a | 43 b 
+i :91 regle : b a a | b b | a 
+i :92 regle : b b | b a 
+i :93 regle : b a b b | b b | b a a | a 123 
+i :94 regle : a b 
+i :95 regle : a 10 | b 53 
+i :96 regle : a b a a | b b | a | aa b | b 131 
+i :97 regle : a 110 | b 78 
+i :98 regle : b b 
+i :99 regle :a a | b aa | a a | b b | a b 
+i :100 regle : a a 
+i :101 regle : b a a | a a a 
+i :102 regle : a a | a b 
+i :103 regle : a a | b ab | a a a 
+i :104 regle : b b | b a b | a a a 
+i :105 regle : 118 b | 23 a 
+i :106 regle : a  b a | b b | a b | b a 
+i :107 regle : a a b | b b | b b b | a b | a 
+i :108 regle : b a b | a  b b 
+i :109 regle : a a | b a 
+i :110 regle : b b b | a b | a | a b b | b a  
+i :111 regle : b 57 | a a a | b b | a a |a a | b a b 
+i :112 regle : 74 a | 138 b 
+i :113 regle : a 24 | b 9 
+i :114 regle :a b b |a a | b aa 
+i :115 regle : a a | b b | a b | a a a 
+i :1b regle : b 29 | a 77 
+i :117 regle : b 63 | a b | a b | b a 
+i :118 regle : ba b b |a a | b aa| a a a a |a b b 
+i :119 regle : 115 a | 5 b 
+i :120 regle : a b | a b | b a | b 109 
+i :121 regle : b b | a b | a 
+i :122 regle : 83 b | 84 a 
+i :123 regle : 88 a | a a b 
+i :124 regle : 120 b | 69 a 
+i :125 regle : b 64 | a a b b | b b | b a a 
+i :126 regle : aa b | b b b | b a 
+i :127 regle : bb a a | a b | b a b| a 126 
+i :128 regle :a b b | a b | b a a 
+i :129 regle : b 128 | a a a b | b a | b a a | b b | a 
+i :130 regle : a a b | b b | b 102 
+i :131 regle :  b a b | 88 a 
+i :132 regle : b b | b a b |  b b a 
+i :133 regle : aa a | b a| b 88 
+i :134 regle : b | a b | b a b | a 
+i :135 regle : a 63 | b a a | b b | a 
+i :136 regle : b a a 
+i :137 regle : a a a | b 109 
+i :138 regle : b 90 | a 122 
+i :139 regle : 13 a | 17 b 
